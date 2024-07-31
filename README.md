@@ -21,7 +21,7 @@ This script provides a realistic firefighting experience in GTA V, allowing play
 3. Add the following line to your `server.cfg`:
 
 ```plaintext
-ensure firefighting-hose
+ensure HoseLs
 ```
 
 ## Configuration
