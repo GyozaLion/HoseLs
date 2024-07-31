@@ -21,7 +21,7 @@ This script provides a realistic firefighting experience in GTA V, allowing play
 3. Add the following line to your `server.cfg`:
 
 ```plaintext
-ensure HoseLs
+ensure firefighting-hose
 ```
 
 ## Configuration
@@ -76,10 +76,10 @@ Config.HoseCommand = 'hose'
 
 ## Authors
 
-- (London Studios & Adam Fenton (Original Script))(https://github.com/LondonStudios/HoseLS)
-- (Converted to Lua by Dr0msis#2562 and Pingouin#8843)(https://github.com/pingouinn/HoseLS/tree/Updated)
+- [London Studios & Adam Fenton (Original Script)](https://github.com/LondonStudios/HoseLS)
+- Converted to Lua by [Dr0msis and Pingouin#8843](https://github.com/pingouinn/HoseLS/tree/Updated)
 
 ## License
 
 This project is licensed under the MIT License.
-```
+
