@@ -74,6 +74,10 @@ Config.HoseCommand = 'hose'
 - The script checks your job and vehicle proximity each time you try to use the hose.
 - If you move too far from the allowed vehicle, the hose will be automatically removed.
 
+## Disclaimer
+- This script is not mine and im not claiming this to be mine, im just editing the script to be able to check for job, vehicle, and range of the vehicle
+  and also make sure it's working fine with qbcore, don't expect perfection from this script since this is my first script and also helped by chatgpt
+
 ## Authors
 
 - [London Studios & Adam Fenton (Original Script)](https://github.com/LondonStudios/HoseLS)
