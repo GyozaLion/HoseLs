@@ -1,6 +1,6 @@
 # Firefighting Hose Script
 
-This script provides a realistic firefighting experience in GTA V, allowing players with specific jobs to equip and use a water hose. The hose can only be used near designated vehicles.
+This script provides a realistic firefighting experience in Fivem with QBCore Framework, allowing players with specific jobs to equip and use a water hose. The hose can only be used near designated vehicles.
 
 ## Features
 
