@@ -6,6 +6,7 @@ local stop = true
 local usedScript = false
 local SyncedParticles = {}
 local weapon = GetHashKey("WEAPON_HOSE")
+local QBCORE = exports['qb-core']:GetCoreObject()
 
 TriggerEvent('chat:addSuggestion', '/' .. Config.HoseCommand, 'Equip/Unequip your hose')
 
